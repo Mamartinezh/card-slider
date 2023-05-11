@@ -1,0 +1,45 @@
+{
+  "1": [{
+		"holder": "Mateo Martinez Herrera",
+		"expDate": "02/25",
+		"cardType": "master",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 2345"
+		},
+		{
+		"holder": "Mateo Martinez",
+		"expDate": "04/23",
+		"cardType": "visa",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 4857"
+		},
+		{
+		"holder": "Mateo Martinez Herrera",
+		"expDate": "09/28",
+		"cardType": "amex",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 8597"
+		},
+		{
+		"holder": "Mateo Martinez Herrera",
+		"expDate": "04/23",
+		"cardType": "visa",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 4857"
+		},
+		{
+		"holder": "Mateo Martinez Herrera",
+		"expDate": "09/28",
+		"cardType": "amex",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 8597"
+		},
+		{
+		"holder": "Mateo Martinez Herrera",
+		"expDate": "09/28",
+		"cardType": "amex",
+		"bank": "Bancolombia",
+		"cardNumber": "1234 4567 4789 8597"
+		}
+	]
+}
